@@ -1,0 +1,32 @@
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Working\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 3\Questions\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe.config
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.exe
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.pdb
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.dll
+D:\QUT\Tutoring\IFN647_2016_Semester_2\Workshop 3\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe.config
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.exe
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\LuceneIndexApplication.pdb
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.dll
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\bin\Debug\Lucene.Net.xml
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.csprojResolveAssemblyReference.cache
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.exe
+C:\Users\n10298851\Downloads\LuceneIndexApplication\LuceneIndexApplication\obj\Debug\LuceneIndexApplication.pdb
