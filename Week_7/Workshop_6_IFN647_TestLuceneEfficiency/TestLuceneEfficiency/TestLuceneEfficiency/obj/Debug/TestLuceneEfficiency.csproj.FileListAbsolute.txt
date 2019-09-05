@@ -1,0 +1,25 @@
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.csprojResolveAssemblyReference.cache
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.exe.config
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.exe
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\TestLuceneEfficiency.pdb
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.dll
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.pdb
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\bin\Debug\Lucene.Net.xml
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.csprojResolveAssemblyReference.cache
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.exe
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_TestLuceneEfficiency\TestLuceneEfficiency\TestLuceneEfficiency\obj\Debug\TestLuceneEfficiency.pdb

@@ -1,0 +1,17 @@
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Working\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 7\Questions\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.csprojResolveAssemblyReference.cache
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_EfficiencyTest\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.exe.config
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_EfficiencyTest\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.exe
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_EfficiencyTest\EfficiencyTest\EfficiencyTest\bin\Debug\EfficiencyTest.pdb
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_EfficiencyTest\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.csprojResolveAssemblyReference.cache
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_EfficiencyTest\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.exe
+H:\IFN647\C-Sharp-Projects\Week_7\Workshop_6_IFN647_EfficiencyTest\EfficiencyTest\EfficiencyTest\obj\Debug\EfficiencyTest.pdb
